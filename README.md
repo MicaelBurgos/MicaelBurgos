@@ -28,16 +28,16 @@ Desarrollador web apasionado por la tecnología, la automatización y la mejora 
 
 ## 🚧 Actualmente trabajando en:
 
-- Aplicaciones CRUD con autenticación
+- Proyectos Html
 - Automatización de tareas backend
 - Consumo de APIs externas
-- Proyectos personales con PostgreSQL y PDFKit
+- Proyectos personales con PostgreSQL
 
 ---
 
 ## 📫 Cómo contactarme
 
-- ✉️ micael@example.com  
+- ✉️ micaellteran@gmail.com  
 - 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
 - 💻 [GitHub](https://github.com/MicaelBurgos)
 
