@@ -3,19 +3,48 @@
 <h1 align="center">Hola 👋, soy Micael Donato Burgos Teran</h1>
 <h3 align="center">Programador en proceso</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=micaelburgos&label=Profile%20views&color=0e75b6&style=flat" alt="micaelburgos" /> </p>
+# 👋 ¡Hola! Soy Micael Burgos
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=micaelburgos" alt="micaelburgos" /></a> </p>
+Desarrollador web apasionado por la tecnología, la automatización y la mejora continua. Me gusta construir soluciones eficientes y bien estructuradas, con foco en el backend pero sin miedo al frontend ni a los desafíos de DevOps.
 
-- 📫 Cómo llegar a mí **burgosteran.md@gmail.com**<h3 align="left">
+---
 
-Conéctate conmigo:</h3>
-<p align="left">
-</p>
+## 🧠 Sobre mí
 
-<h3 align="left">Idiomas y Herramientas:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.gtk.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/7/71/GTK_logo.svg" alt="gtk" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.wxwidgets.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/b/bb/WxWidgets.svg" alt="wx_widgets" width="40" height="40"/> </a> </p>
+- 💻 Actualmente trabajando en proyectos de desarrollo web.
+- 📚 En constante aprendizaje: inteligencia artificial, DevOps y arquitectura de software.
+- 🛠 Me gusta escribir código limpio, documentado y reutilizable.
+- 🤝 Disfruto colaborar, compartir conocimientos y trabajar en equipo.
+- 🚀 Buscando siempre crecer como desarrollador y como persona.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=micaelburgos&show_icons=true&locale=en&layout=compact" alt="micaelburgos" /></p>
+---
 
-<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=micaelburgos&show_icons=true&locale=en" alt="micaelburgos" /></p>
+## 💡 Habilidades técnicas
+
+- Lenguajes: **JavaScript**, **Python**, **Java**, **C#**
+- Backend: **Node.js**, **Express**, **PostgreSQL**, **Sequelize**, **MongoDB**
+- Frontend: **HTML**, **CSS**, **JavaScript**, **React** (básico)
+- DevOps: manejo de entornos con `.env`, estructuras modulares, despliegue en servicios como **Render** o **Railway**
+- Diseño: uso básico de **Figma** para wireframes y prototipos
+
+---
+
+## 🚧 Actualmente trabajando en:
+
+- Aplicaciones CRUD con autenticación
+- Automatización de tareas backend
+- Consumo de APIs externas
+- Proyectos personales con PostgreSQL y PDFKit
+
+---
+
+## 📫 Cómo contactarme
+
+- ✉️ micael@example.com  
+- 💼 [LinkedIn](https://linkedin.com/in/tuusuario)  
+- 💻 [GitHub](https://github.com/MicaelBurgos)
+
+---
+
+> *"La práctica constante supera al talento cuando el talento no practica."*
+
