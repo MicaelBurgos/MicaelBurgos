@@ -1,7 +1,6 @@
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=F70000&width=442&height=56&lines=Hola!+%F0%9F%91%8B%2C+Soy+Micael+Burgos" alt="Typing SVG" /></a>
 <h3 align="center">Programador en proceso</h3>
 
-# 👋 ¡Hola! Soy Micael Burgos
 
 Desarrollador web apasionado por la tecnología, la automatización y la mejora continua. Me gusta construir soluciones eficientes y bien estructuradas, con foco en el backend pero sin miedo al frontend ni a los desafíos de DevOps.
 
